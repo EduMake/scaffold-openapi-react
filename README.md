@@ -2,6 +2,9 @@
 
 Generate a React app from an OpenAPI 3.1 schema URL.
 
+
+## Make sure your API is running before trying this
+
 ## Install
 
 Install globally from GitHub:
